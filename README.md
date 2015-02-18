@@ -1,3 +1,2 @@
 # Python for zombies
-[+]Project for python development group training
-[+]Repository for educational purposes
+Repository for educational purposes, project for python development group training.
