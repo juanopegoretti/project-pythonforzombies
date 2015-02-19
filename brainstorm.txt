@@ -3,4 +3,18 @@ Brainstorm do foco do projeto
 portal com materiais para ajudar nos estudos.
 tutoriais
 chat
-forum
+fórum
+
+
+
+
+
+
+#### Meios de Comunicação do grupo ####
+
+propor as formas que iremos nos comunicar
+
+-Skype
+-Whatsapp
+-Slack
+-IRC 
