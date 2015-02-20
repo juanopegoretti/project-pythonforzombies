@@ -1,13 +1,6 @@
 Brainstorm do foco do projeto
 
-portal com materiais para ajudar nos estudos.
-tutoriais
-chat
-fórum
-
-
-
-
+portal com materiais para ajudar nos estudos.(tutoriais,chat,fórum, etc)
 
 
 #### Meios de Comunicação do grupo ####
@@ -18,3 +11,8 @@ propor as formas que iremos nos comunicar
 -Whatsapp
 -Slack
 -IRC 
+
+
+### framework a se usado no desenvolvimento do projeto###
+Django
+Web2py
